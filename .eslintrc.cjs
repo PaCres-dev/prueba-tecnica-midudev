@@ -26,3 +26,4 @@ module.exports = {
     "react/jsx-no-target-blank": ["warn"],
   },
 };
+
